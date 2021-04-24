@@ -27,6 +27,8 @@
 
 ## Samples
 
+- [CrCalendar](https://github.com/Cleveroad/cr_calendar) - Customizable Flutter calendar inspired by Google Calendar app.
+
 ## Other awesomes
 
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - Awesomes Flutter - by [Solido](https://github.com/Solido).
