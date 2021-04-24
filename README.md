@@ -3,7 +3,7 @@
 ## Contents
 
 - [Packages](#packages)
-- [Videos](#videos)
+- [Samples](#samples)
 - [Components](#components)
 - [Navigation](#navigation)
 - [Template](#templates)
@@ -13,7 +13,6 @@
 - [Gaming](#gaming)
 - [Open Source Apps](#open-source-apps)
 - [Web](#web)
-- [Utilities](#utilities)
 - [Books](#books)
 - [Bonus](#bonus)
 - [Jobs](#jobs)
@@ -21,8 +20,9 @@
 
 ## Packages
 
-### Introduction
+### Code analyzers
 
-- [Lint for Dart/Flutter](https://github.com/passsy/dart-lint) - code analyzer
+- [Lint](https://github.com/passsy/dart-lint) - Dart/Flutter code analyzer
+- [Pedantic](https://github.com/google/pedantic) - Dart code analyzer
 
-### Websites / Blogs
+### Samples
