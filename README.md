@@ -25,7 +25,7 @@
 
 - [Lint](https://github.com/passsy/dart-lint) - Dart/Flutter code analyzer.
 - [Pedantic](https://github.com/google/pedantic) - Dart code analyzer.
-- [Other static analysis](https://github.com/analysis-tools-dev/static-analysis) - code analysis for many languages.
+- [Other static analysis](https://github.com/analysis-tools-dev/static-analysis) - Code analysis for many languages.
 
 ## Packages
 
@@ -33,7 +33,8 @@
 - 
 ## Samples
 
-
+- [Deer](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner app built around the idea of efficiency and clean aesthetic.
+  Deer uses BLoC (Business Logic Component) pattern to manage app state.
 
 ## Other awesomes
 
