@@ -2,6 +2,7 @@
 
 ## Contents
 
+- [Utilities](#utilities)
 - [Packages](#packages)
 - [Samples](#samples)
 - [Other awesomes](#other-awesomes)
@@ -18,16 +19,20 @@
 - [Jobs](#jobs)
 - [Community](#community)
 
-## Packages
+## Utilities
 
 ### Code analyzers
 
 - [Lint](https://github.com/passsy/dart-lint) - Dart/Flutter code analyzer
 - [Pedantic](https://github.com/google/pedantic) - Dart code analyzer
 
-## Samples
+## Packages
 
 - [CrCalendar](https://github.com/Cleveroad/cr_calendar) - Customizable Flutter calendar inspired by Google Calendar app.
+- 
+## Samples
+
+
 
 ## Other awesomes
 
