@@ -29,4 +29,4 @@
 
 ## Other awesomes
 
-- [awesome-flutter](https://github.com/Solido/awesome-flutter) - Awesomes Flutter by [https://github.com/Solido]
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) - Awesomes Flutter - by [Solido](https://github.com/Solido).
