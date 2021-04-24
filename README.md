@@ -34,7 +34,7 @@
 ## Samples
 
 - [Deer](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner app built around the idea of efficiency and clean aesthetic.
-  Deer uses BLoC (Business Logic Component) pattern to manage app state.
+        Deer uses BLoC (Business Logic Component) pattern to manage app state.
 
 ## Other awesomes
 
