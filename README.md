@@ -1,10 +1,10 @@
-# samples-flutter
+# My Flutter links library
 
 ## Contents
 
 - [Packages](#packages)
 - [Samples](#samples)
-- [Components](#components)
+- [Other awesomes](#other-awesomes)
 - [Navigation](#navigation)
 - [Template](#templates)
 - [Plugins](#plugins)
@@ -25,4 +25,8 @@
 - [Lint](https://github.com/passsy/dart-lint) - Dart/Flutter code analyzer
 - [Pedantic](https://github.com/google/pedantic) - Dart code analyzer
 
-### Samples
+## Samples
+
+## Other awesomes
+
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) - Awesomes Flutter by [https://github.com/Solido]
