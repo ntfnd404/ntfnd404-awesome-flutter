@@ -23,8 +23,9 @@
 
 ### Code analyzers
 
-- [Lint](https://github.com/passsy/dart-lint) - Dart/Flutter code analyzer
-- [Pedantic](https://github.com/google/pedantic) - Dart code analyzer
+- [Lint](https://github.com/passsy/dart-lint) - Dart/Flutter code analyzer.
+- [Pedantic](https://github.com/google/pedantic) - Dart code analyzer.
+- [Other static analysis](https://github.com/analysis-tools-dev/static-analysis) - code analysis for many languages.
 
 ## Packages
 
