@@ -23,6 +23,6 @@
 
 ### Introduction
 
-- [Lint for Dart/Flutter](https://github.com/passsy/dart-lint)
+- [Lint for Dart/Flutter](https://github.com/passsy/dart-lint) - code analyzer
 
 ### Websites / Blogs
