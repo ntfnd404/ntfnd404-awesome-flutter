@@ -6,7 +6,7 @@
 - [Packages](#packages)
 - [Samples](#samples)
 - [Other awesomes](#other-awesomes)
-- [Navigation](#navigation)
+- [Architecture](#architecture)
 - [Template](#templates)
 - [Plugins](#plugins)
 - [Frameworks](#frameworks)
@@ -39,3 +39,8 @@
 ## Other awesomes
 
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - Awesomes Flutter - by [Solido](https://github.com/Solido).
+
+## Architecture
+
+- [TDD Clean Architecture for Flutter](https://github.com/ResoCoder/flutter-tdd-clean-architecture-course)
+
